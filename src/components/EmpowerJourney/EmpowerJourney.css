@@ -609,7 +609,7 @@
   .EJSection .GR-MainCard .row-2
   , .EJSection .GR-SideCard .row-2, .EJSection .GR-SideCardDisAct .row-2
   {
-    justify-content: end;
+    justify-content: flex-end;
   }
   .EJSection .GR-SideCard .row-2, .EJSection .GR-SideCardDisAct .row-2
   {

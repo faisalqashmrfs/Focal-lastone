@@ -7,7 +7,7 @@ import { BrowserRouter } from 'react-router-dom'
 ReactDOM.createRoot(document.getElementById('root')).render(
 
   <React.StrictMode>
-    <BrowserRouter basename='/Focalxx'>
+    <BrowserRouter basename='/Focal-lastone'>
       <App />
     </BrowserRouter>
   </React.StrictMode>
